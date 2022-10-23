@@ -29,4 +29,8 @@ Then merged the smaller pieces into a full fledged responsive websites and solve
 
 Since this is a basic front-end project, so to deploy this project, simply download the folder and run the HTML file on your live server.
 
-To open the live website, it is uploaded on github pages.
+To open the live website, it is uploaded on vercel and github pages.
+
+Here is the vercel link : https://totalitycorp-frontend-challenge-silk.vercel.app/
+
+Here is the github pages link : https://romaanchak-rishabh.github.io/totalitycorp-frontend-challenge/
